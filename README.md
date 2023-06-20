@@ -17,9 +17,9 @@ Age: Age (years)
 Outcome: Class variable (0 or 1)
 
 # Requirements
-Python 3.7 or higher
-Jupyter Notebook
-NumPy
+* Python 3.7 or higher
+* Jupyter Notebook
+* NumPy
 Pandas
 Scikit-learn
 Matplotlib
